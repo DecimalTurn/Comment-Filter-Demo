@@ -14,4 +14,4 @@ jobs:
     - name: Comment filter
       uses: DecimalTurn/Comment-Filter@dev
       with:
-        exclude-contributors: true
+        exclude-contributors: false
